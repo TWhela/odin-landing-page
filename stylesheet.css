@@ -1,4 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: darkslateblue;
+    padding: 1em 13em
 }
