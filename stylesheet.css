@@ -64,6 +64,10 @@ a:link {
     font-size: 48px;
 }
 
+.subtext {
+    color: #E5E7EB;
+}
+
 button {
     padding: 7px 1em;
     width: 120px;
